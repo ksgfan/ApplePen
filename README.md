@@ -1,4 +1,4 @@
 # ApplePen
-simply drawing app
+simple drawing app
 
 minimal app
